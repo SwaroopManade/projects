@@ -1,4 +1,4 @@
-For your restaurant web application using Spring Boot and React.js, here are some things you should consider:
+restaurant web application using Spring Boot and React.js
 
 ### 1. **Backend Design (Spring Boot)**
    - **Entity Design**: Create entities like `Dish`, `Table`, `Order`, and `Bill`. These entities should have relationships:
